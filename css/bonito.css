@@ -1,20 +1,21 @@
 body{
-    color: rgb(10, 4, 0);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    background: url(https://animeshelter.com/wp-content/uploads/2021/04/horimiya-episode-13-3237.jpg);
+    background: url(https://somoskudasai.com/wp-content/uploads/2021/02/portada_horimiya-22.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+
 }
 .blanco{
     background-color: rgba(240, 248, 255, 0.89);
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.3);
     width: 35%;
     height: auto;
     margin-left: auto;
     margin-right: auto;
     border-radius: 15px;
-    margin-top: 6rem;
+    margin-top: 10rem;
 }
 .centrar{
     padding: 1px;
@@ -24,9 +25,23 @@ body{
     font-size: 36px;
     margin-left: 13%;
     margin-right: 13%;
+    color: rgb(10, 4, 0);
 }
 .ingresar{
     text-align: left;
     margin-left: 12%;
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(32, 32, 32);
+}
+.datos{
+    border-right: transparent;
+    border-left: transparent;
+    border-top: transparent;
+    border-bottom-color: #559fe4f1;
+    background-color: transparent;
+    width: 75%;
+    margin-right: auto;
+    outline: none;
 }
 
