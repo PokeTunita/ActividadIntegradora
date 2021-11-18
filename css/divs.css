@@ -44,14 +44,3 @@ hr{
     margin-left: 2rem;
     margin-top: 3rem;
 }
-.regreso{
-    background-color: rgba(240, 248, 255, 0.89);
-    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.3);
-    width: 16%;
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 15px;
-    margin-top: 10rem;
-    padding-bottom: 30px;
-}
