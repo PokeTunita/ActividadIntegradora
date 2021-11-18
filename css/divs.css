@@ -17,10 +17,10 @@ select, .fecha, .datos{
     margin-left: 0;
 }
 button{
-    width: 30%;
+    width: 40%;
     margin-left: 20px;
     margin-right: 20px;
-    margin-top: 0%;
+    align-items: center;
 }
 hr{
     margin-top: 35px;
@@ -31,4 +31,27 @@ hr{
     margin-left: 5%;
     margin-right: 5%;
     color: rgb(10, 4, 0);
+}
+.consultas{
+    background-color: rgba(240, 248, 255, 0.89);
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.3);
+    height: auto;
+    border-radius: 15px;
+    margin-top: 10rem;
+    padding-bottom: 30px;
+    display: inline-block;
+    width: 30%;
+    margin-left: 2rem;
+    margin-top: 3rem;
+}
+.regreso{
+    background-color: rgba(240, 248, 255, 0.89);
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.3);
+    width: 16%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    margin-top: 10rem;
+    padding-bottom: 30px;
 }
