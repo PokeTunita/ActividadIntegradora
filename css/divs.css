@@ -44,3 +44,14 @@ hr{
     margin-left: 2rem;
     margin-top: 3rem;
 }
+.volver{
+    width: 100px;
+    color: rgb(255, 244, 230);
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 30px;
+    border-radius: 7px;
+    border-color: transparent;
+    background: linear-gradient(179deg, #5fb2fff1, rgba(45, 201, 221, 0.911), #5fb2fff1);
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
+}
